@@ -11,10 +11,10 @@ This project provides a simple and efficient way to convert files from different
 * Supports input file formats:
     + JSON
  
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to add support for a new input file format or improve the library in some other way, please submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 Copyright (c) 2024 Henry Levesque
