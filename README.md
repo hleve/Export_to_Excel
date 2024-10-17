@@ -1,6 +1,6 @@
 # File to Excel Converter
 
-A Python library for converting various file formats to Excel (.xlsx) files with an emphasis on making the files human-readable.
+A Python library for converting various file formats to Excel (.xls) or (.csv) files with an emphasis on making the files human-readable.
 
 ## Overview
 
